@@ -26,7 +26,7 @@ function filter_the_content(string $content): string
             $timer = ' minutes';
         }
 
-       $content = 'Temps de lecture : ' . $readtime . $timer .$content;
+       $content = '<strong> Temps de lecture : ' . $readtime . $timer .$content .' </strong>';
     }
 
     return $content;
