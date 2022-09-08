@@ -1,0 +1,15 @@
+[07/Sep/2022:13:24:12] (I): WordPress Instance Info:
+[07/Sep/2022:13:24:12] (I): Home URL : http://localhost:8080
+[07/Sep/2022:13:24:12] (I): Site URL : http://localhost:8080
+[07/Sep/2022:13:24:12] (I): WordPress Version : 6.0.2
+[07/Sep/2022:13:24:12] (I): Onboarding Version : 1.1.25
+[07/Sep/2022:13:24:12] (I): Multisite : No
+[07/Sep/2022:13:24:12] (I): Server Info : PHP 8.1.6 Development Server
+[07/Sep/2022:13:24:12] (I): PHP Version : 8.1.6
+[07/Sep/2022:13:24:12] (I): HTTPS : No
+[07/Sep/2022:13:24:12] (I): PHP Max Execution Time : 120
+[07/Sep/2022:13:24:12] (I): PHP Max Input Vars : 1000
+[07/Sep/2022:13:24:12] (I): Max Upload Size : 41943040
+[07/Sep/2022:13:24:12] (I): Plugins:
+[07/Sep/2022:13:24:12] (I): [PLUGIN] Elementor : v3.7.4 (Elementor.com)
+[07/Sep/2022:13:24:12] (I): [PLUGIN] Templates Patterns Collection : v1.1.25 (ThemeIsle)
